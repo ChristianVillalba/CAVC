@@ -1,0 +1,247 @@
+# Selecting the Project Framework
+
+## Identify Project Methodologies
+
+• Waterfall
+- Oldest
+- Linear
+- One stage must finish before start the next one
+- Requires clear requirements
+Requirements > Design > Implementation > Testing > Delivery > Maintenance
+
+- Pros:
+ ○ Easy to learn and use
+ ○ Adaptable
+ ○ Easy for PMs to track and use
+ ○ Thorough documentation (detailed and careful)
+- Cons:
+ ○ Inflexible 
+ ○ Changes will restart the project at start line
+ ○ High cost of change
+ ○ Requires planning the project at the beggining
+- DO NOT USE if you expect:
+ ○ Frequent releases
+ ○ Enhancemnts after implementation
+ ○ Affordable and desirable changes
+
+• Agile
+- Adaptable to change
+- Employees self-organize agile teams
+- Aims to release products early and often
+- Iterative incremental development
+
+- Pros:
+ ○ Adaptable
+ ○ Allows change and uncertainty
+ ○ Early testing and quality checks 
+ ○ Frequent, affordable updates
+ ○ Gives workers more autonomy
+ ○ Customer-driven features
+ ○ Ongoing-enhancements increase competitiveness
+- Cons:
+ ○ Prone to scope creep
+ ○ Moving targets and missed deadlines
+ ○ Requires highly skilled and motivated teams
+ ○ Less emphasis on documentation
+- DO NOT USE:
+ ○ Short simple projects
+ ○ Projects that need requirements early  
+
+• Scrum : the most common agile frameworks
+- Lightweight
+- Minimum requirements
+- Empiricism and lean thinking
+ ○ Values
+  + Commitment
+  + Focus
+  + Openness
+  + Respect
+  + Courage
+ ○ Pilars
+  + Transparency
+  + Inspection
+  + Adaptation
+
+- Roles & responsibilities
+Scrum Team: they build the spring backlog & sprint goal
+Product Owner: identify which enhacements will be buildt next. 
+	       tend to product backlog and set the product goal.
+Scrum Master: coaches the team to improve their scrum applicaton
+Developer: remaining scrum team members (not PO or SM)
+
+-Events: 
+Sprint: 1-4 week timebox for all sprint events 
+Spring planning: select work for upcoming sprint
+Daily Scrum: plan the next 24h
+Sprint review: inspect progress and adapt the product
+Sprint retrospective: reflect on the team's perfomance and improve
+
+- Pros:
+ ○ Lightweight
+ ○ Problem-solving focus
+ ○ Customer-centric
+ ○ Fast pace delivers cosiderable quantities of work
+- Cons:
+ ○ Requires a precise environment
+ ○ Requires respect for the product owner's decisions
+ ○ Harder for inexperienced teams to adapt
+ ○ Team changes significantly reduce capacity
+ ○ Pace and schedule can lead to employee burnout
+- DO NOT USE:
+ ○ Teams with routine, predictable work
+ ○ Project with frequently changing team members
+
+• Kanban
+- Agile framework
+- Older than agile and software, started in lean manufacturing.
+- Highly visual: kanban board is recognizable and used across many methodologies
+- Aims to increase completed work by controlling Work In Progress (WIP)
+- Work is pulled from backlog through predetermined workflow stages until finished state
+
+- Visualization:
+To do > in progress > review > done
+- Workflow:
+ 1) Product owner prioritizes and orders backlog
+ 2)A team member selects the top-ordered item in the backlog and pulls it into progress
+ 3)The team moves teh work through the workflow keeping the WIP limits
+ 4)When the team is ready to start new work, they select the next item in the backlog
+
+- Core Principles
+Visualize work
+Limit WIP
+Make policies explicit
+Manage flow
+Implement feedback loops
+Improve collaboratively, evolve experimentally
+Notes:
+Transparency through visual work helps to identify bottlenecks
+Reduce WIP increases focus and reduces context switching
+
+- Pros:
+ ○ Simplest framework to learn
+ ○ Applicable to any industry
+ ○ Works well for repeatable routine tasks
+ ○ Stable workflows
+ ○ Good for predictable process but unpredictable backlog (helpdesk)
+ ○ Good for teams that thrive without structure
+- Cons:
+ ○ Sensitive to large teams and team changes
+ ○ Prone to longer cycle times without active perfomance managment
+- DO NOT USE:
+ ○ Unpredictable workflows 
+ ○ Teams with high turnover
+ ○ Cadence and structure needed
+ ○ Regular releases and feedback needed
+
+• Extreme Programming (XP)
+- Agile framework
+- Heavy emphasis on software engineering
+- Applicable outside software development
+- XP takes good software engineering habits to extreme and codifies as practices
+- Reviews code while writing it. Pair programming: 2devs 1keyboard
+
+- Roles:
+Customer: selects next feature
+Tracker: captures metrics and look for improvements
+Coach: Mentors the team on XP
+Notes: XP is customer  and delevoper focused framework, 
+improves developers quelity of life and customer product.
+
+- Values: 
+Communication
+Simplicity
+Feedback
+Respect
+Courage
+Notes: extremely simple code
+solve problems with the least amoutn of work
+continually evolving framework
+can be customized and applied with other frameworks
+
+- Pros:
+ ○ Exceptionally efficient
+ ○ Modernized development sistems out of necessity
+ ○ Higher success rate
+ ○ Good for small stable teams
+ ○ Good for teams that react fast to change
+ ○ Projects with thight deadlines
+ ○ Access to customer
+- Cons:
+ ○ Limited focus on product desing
+ ○ Pace can lead to stress for developers
+ ○ Minimal documentation
+- DO NOT USE:
+ ○ Teams with limited access to automation
+ ○ Teams with functional roles and limited need to collaborate
+
+• DevOps
+- More an organizational structure than a project methodolgy
+- Software engineering practices
+- Integrates software dev and IT Operations with people
+- Increases efficiency and quality by improving communicaton
+
+- Workflow: CI/CD
+Continuous Integration / Continuous Deployment
+Continuous Integration: frequently check code into the main branch 
+& run automated test
+Continuous Deployment: automated process prepare and releases code to production
+
+Cycles:
+Plan > code > build > test > release > deploy > operate > monitor >> (repeat)
+
+- Pros:
+ ○ Less friction
+ ○ More cross-functional collaboration
+ ○ Increased automation
+ ○ Frequently deployments (faster delivery for customers)
+- Cons:
+ ○ Extensive skill requirements per team
+ ○ Spacialist teams may need time to adapt
+ ○ Limited applicability for systems lacking automation
+
+- Managing DevOps:
+ ○ Agile DevOps Teams:
+   + Smaller increments of functionality
+   + Longer dev time, more integration, test debug cycles
+   + Minimal deployment tasks
+   + Fewer dependencies
+ ○ Agile Teams without DevOps:
+   + Increments smaller than waterfall, larger tha DevOps
+   + manual test, integration and deployment (bottleneck)
+   + Longer integration and delpyment tasks
+   + More dependencies
+
+• DevSecOps: Second Gen DevOps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

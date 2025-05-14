@@ -1,0 +1,131 @@
+## 1A Understanding project Managment
+
+Project managment:
+Long-lived
+Scalable
+Everywhere (involment)
+Experience (we are working together)
+
+note: A Gantt chart is a project management tool that 
+visually represents tasks and their schedules using horizontal bars
+
+PM (project managment)embraces simplification:
+reusable templates and artifacts (accessible for everybody)
+
+Project Phases:
+Concept/Discovery >Initiation > Planning > Execution > Closing > (Risk Analysis/QA) >> repeat
+
+PM skills:
+Adaptable, organized, analytical, problem-solver, team player, influential, communicator
+
+Applying project managment: Organized effort
+
+
+## 1B Developing the business case:
+Bussiness case provides the justification for pusruing a project
+
+Executive 
+Tool: write technology-forcus / value-focus statements
+
+
+Note: 
+project: a particular job
+operations: constant processes (ex: call customers, buy/sell stuff)
+
+
+Task:
+
+1:
+
+1st statement
+Value focus statement 
+Online promotion 5% increase , only 15% of customer have access to the online promotion
+
+2nd statement
+Current state & future state
+
+2nd:
+It's important to considered "do nothing" because that will 0 cost now,
+but it may produce looses in the long-run as the competitors continue growing.
+
+
+
+## 1C - Identify Project Characteristics
+
+Operational work: rutine, predictable, repetitive
+Project work: accomplishes something new
+- Be unique 
+- Specific purpose
+- Distinct start and finish
+
+Functional structure
+Project structure
+Matrix (weak/strong matrix)
+- strong matrix: project manager has budget and people manag reposibilities
+- In a matrix organization, employees may work on multiple projects simultaneously
+  and collaborate with project managers on project-related tasks while still 
+  reporting to their functional managers.
+PM roles:
+Leads projects (full llife cycle)
+Leads programs (maintaining alignment or org strategy)
+PMO (office) the functional project managment dpt.
+- Supportive PMO
+- Controlling PMO
+- Directive PMO
+
+Project Infuencer Roles:
+Stackeholder - interest in the project (good/bad)
+Senior managment - (executives in the organization)
+Sponsor - funding
+Customer benefits from the finished project
+End-user - interacts with the finished project
+
+A set of programs constitute the portfolio 
+Similar: they track projects and responsibilites
+Program manager do it a higher level (multiple projects)
+Project manager (single project)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

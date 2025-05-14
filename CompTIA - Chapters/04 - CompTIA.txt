@@ -1,0 +1,181 @@
+# LEAD EFFECTIVE MEETINGS
+
+## Communiction Methods
+• Synchronous
+- Real-time communication
+- Fast information exchange
+- Resolve communication
+- In-depth discussion
+- Requires schedules to synchronize
+- Requires shared communication or technology
+• Asunchronous
+- Delay between sending and receiving info
+- Accomodates flexible schedules
+- Good for short exchanges
+- Works with large groups
+- bad for urgent matters
+- Possible miscommunication
+
+• Formal Communication
+•  Informal Communication
+
+• Internal Communication
+• External Communication
+
+• Meeting roles
+Attendees/Target Audience: can contribute, sould be an intentional list
+Facilitator: monitor and redirect meeting flow. Responsibility: achieve meeting purpose
+Scribe: (optional) records key information and decisions
+
+• Informative Meetings 
+- Educational or persuasive
+- disseminate information
+- 2 to 2.000 attendees
+○ Pros: 
+- Efficient way to share info
+- Consistency in message
+○ Cons:
+- Can feel one-directional
+Demostrations and presentations
+- examples: 
+demostations and presentations
+status meeting
+stand-up 
+
+• Decisive Meetings 
+- Centred around one or more decisions to be made
+- Deciscion-maker needs to know their role bofeore the meeting
+- Small groups to promote interaction
+- Needs a clear agenda
+- examples: 
+task setting
+project steering commitee
+
+• Collaborative Meetings 
+- Most interactive meeting type
+- Attendees work together to accomplish something
+- Need enough attendees to generate ideas but small enough for good interactions
+-8-20 participants
+○ Pros: 
+- Show genuine reactions
+- Gives customer a voice in the product design
+○ Cons:
+-  Moderator bias can influence the result
+
+Types:
+ ○ Focus Groups: Facilitation and Moderation Techniques
+  - Single-moderator
+  - Dual-moderator
+  - Dueling-moderator (generates the most viewpoints)
+  - Two-way one group observe another (generates complex views)
+  - Respondent-moderator: minimizes moderator bias. creates energy
+ ○ Workshop
+  - Working session
+  - Complete volumes of work in a short time
+  - Targeted attendees and focused on objectives
+  - Rapid knowledge exchange
+  - Demostrates progress quickly
+ ○ Join Application Development (JAD)
+  - Product design method
+  - Engages the customer in working desing sessions
+  - Reduces rework and increased adoption
+  - Conversations can get technical
+ ○ Brainstorming
+  - Generates many ideas quickly
+  - Accommodates many group sizes
+  - Takes quantity over quality approach
+  - Fun for participants
+
+• Collaborative Artifacts 
+ ○ Meeting Agenda
+  - Describes Meeting's purpose
+  - Sets the tone
+  - Creates productive meetings
+  - Powerful planning tool
+ ○ POWER Start Agenda Technique
+  - Purpose
+  - Outcomes
+  - What's In It For Me (WIIFM)
+  - Roles & responsibilites
+ ○ Timebox
+  - Fixed Max. duration of an event or topic
+  - Gives each topic adequate space
+  - Balances planning and flexibility
+ ○ Action Items 
+  - Work to complete after the meeting
+  - Documented action items give clear expectations
+ ○ Follow-up
+  - Communication after the meeting (eg: email)
+  - Includes meeting minutes and supplemental information
+  - Express appreciation
+  - Reiforce action items and next steps
+
+• Communication Challenges
+- Language barriers
+- Technological Factors (discomfort with software...)
+- Cultural Differences (strong team >> strong common culture)
+
+• Tuckman's states of group development
+- Team Life Cycle
+  + The changes in a team's norms, interactions, productivity, and needs
+  + Occurs as the group achieves new levels of cohesion and productivity
+  + PM will offer different types of support in each stage
+- Team Life Cycle: Stages
+  + Forming: assambling. need guidance
+  + Storming: need conflict resolution
+  + Norming: need time to figure out how to work together
+  + Performing highest productivity and cohesiveness. need room to excel
+  + Adjourning: team breaks apart and moves on. need recognition
+- Life Cycle Stages
+  + Teams will move through the stages and repeat the stages
+  + The objective is keep the team at optimal perfomance stage
+
+• Conflict managment
+ ○ Team Conflict
+  - Inevitable between people or groups 
+ ○ Types of conflict
+  - Task-based conflict
+  - Emotional conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
