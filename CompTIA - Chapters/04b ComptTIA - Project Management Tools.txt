@@ -1,0 +1,67 @@
+# USE PROJECT MANAGEMENT TOOLS
+
+• Software Installation Options
+Cloud-based
+On-Premises
+Local Installation
+• Ticket System
+- Records customer problems
+- aka helpdesk
+- combines ticket submission with resoultion
+• Project Management Scheduling Tool
+- Used to plan and track a project
+- Creates project schedules
+- Generates visuals (eg: Gantt)
+• Calendar Tools
+- Real-time scheduling tool
+- Adjusts to multiple time zones
+- Sharing and coordination features
+- Enables personal productivity and organization
+- Excellent for setting task reminders
+• Conferencing Plataforms
+• Meeting tools
+- Real-time survery and polls
+- Print media
+• Productivity tools
+- Text editor
+- SpreadSheet
+- Presentation
+- Diagramming
+- Flowchart
+- Decision Tree
+- Data Flow Diagram (DFD)
+- Mind Map
+- Quadrant Diagrams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

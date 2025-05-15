@@ -1,0 +1,80 @@
+# Create a Communication Plan
+- Strategy: how to share information
+- Sets recurring communications loops
+- Will vary in formality and depth
+- Documented and shared for any formality
+
+• Elements:
+- Communications Goals
+- Stackeholders
+- Team members
+- Artifacts used - documents, events, products used to achive the goal
+• Elements for each artifact
+- Channel
+- Recipients
+- Frequency
+- Outcomes
+• Develop a Communication Plan
+- Identify Stackeholder
+- Identify their preferences
+- Create the project communication plan
+- Share and finalize the plan
+- Schedule everything
+- Revise the plan
+Note: it make take several drafts to succussfully balance everybody's preferencees
+• Plan Design Tips
+- Aim to make PM's job easier. Efficiency and adequate communication
+- Use existing channels and templates when possible
+- Share appropiate amount of information
+- Match the frequency to the nature and schedule of the audience and project
+• Escalation Plan
+- Describes problem scenearios and how to respond to them
+- Describes potential, general scenarios -not specific risk or issues
+- Starts with limited categories and plans
+• Escalating Appropriately
+- Escalation Makes others aware of a problem
+- Used to seek resolution
+- Often treated as negative
+- Can be uncomfortable to escalate
+- Appropriate escalation is valuable PM skill 
+• Communication records
+- Part of the records management plan
+- Update teh records maangement plan whenever you update the communication plan
+- Considere the data classification level of any project records:
+	- Public data, confidential data, critical data
+• Communication records:
+- Security
+- Archiving 
+- Maintain Communication Integrity:
+ + Capturing information
+ + Centralizing information
+ + Reflecting reality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

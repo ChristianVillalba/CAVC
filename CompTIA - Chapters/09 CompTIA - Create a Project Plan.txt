@@ -1,0 +1,22 @@
+# Create a Project Plan
+
+## Refine the Timeline
+
+• Projecct Network Diagrams
+ ○ Precedence Diagram Method (PDM)
+  - Visualizes activities, dependencies, and sequencies using boxes & arrows
+  - Simple diagram for summarizing a full project in a single page
+  - Starting point for other project diagrams
+  - Program Evaluation and Review Techinique (PERT):
+   + Optimistic (O)
+   + Pessimistic (P)
+   + Most Likely (M)
+	PERT estimate (time weeks) : (O + 4M + P) / 6 
+ ○ Critical Path Method (CPM)
+  - Project schedule analysis technique
+  - Finds the critical path
+  - Used to identify the activities that are congrolling the project length
+
+
+
+

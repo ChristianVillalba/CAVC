@@ -212,8 +212,14 @@ Plan > code > build > test > release > deploy > operate > monitor >> (repeat)
    + More dependencies
 
 • DevSecOps: Second Gen DevOps
+- Builds IT security into the DevOps cycle
+- Significant culture shift for most organizations
+- Reduces security as a shared service 
+  and increases decentralized decision-making
+- Everybody owns security in DevSecOps
 
-
+• Scaled Agile Framework (SAFe)
+- Popular 
 
 
 

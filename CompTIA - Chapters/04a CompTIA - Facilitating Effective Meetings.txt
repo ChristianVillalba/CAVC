@@ -136,8 +136,30 @@ Types:
  ○ Types of conflict
   - Task-based conflict
   - Emotional conflict
-
-
+ ○ Managing conflict
+  - Recognise and managing conflict
+  - Allow healthy conflict to occur
+  - Allow teams the opportunity to resolve the conflict
+  - React before it scalates
+ ○ Conflic resolution strategies: (see table)
+  - Smoothing
+  - Forcing
+  - Compromising
+  - Collaborating
+  - Avoiding
+ ○ Conflict scalation (dr Glasl's 9 stages):
+  - Stages (1-3)
+  - Tension
+  - Debate
+  - Actions replace words
+  - Stages (4-6)
+  - Coalitions
+  - Loos of face
+  - Threats
+  - Stages (7-9)
+  - Limited destructon
+  - Annihilation
+  - Abyss
 
 
 
