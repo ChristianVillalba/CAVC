@@ -16,6 +16,73 @@
   - Project schedule analysis technique
   - Finds the critical path
   - Used to identify the activities that are congrolling the project length
+  - PM's use of the Critical Path
+   + Closely manage these activities
+   + Shorten the length or break dependencies
+   + Negociate deliverables, resources and dependencies
+   + Manage schedule expectations
+  - CPM Analysys Process
+   + Draw the project activities and dependencies
+   + Calculate the PERT estimate duration for each activity
+   + Complete a forward pass to calculate the early start and early finish
+   + Complete a backward pass to calculate the late start and late finish
+   + Calculate the total float (TF)
+   + Calculate the free float (FF)
+   + Identify the critical path
+
+## Establish Project Baselines
+• Minimum Viable Product (MVP)
+- Early version of a product
+- Just enough functionality to prove value
+- Cornerstone of iterative incremental development
+• Detailed Scope Statement 
+- Expands on the preliminary scope statement
+- Uses the same template as the preliminary scope statement
+-Finalizes the project scope for baselines
+Note: after the scope and baselines are set, adjustments or changes 
+are sent through a formal change request process
+• Detailed Scope Statement 
+ ○ Expanded Preliminary Scope Fields
+  - Project Scope Description
+  - Project Acceptance Criteria
+  - Project Deliverables (in scope)
+  - Project Exclusions (out of scope)
+  - Assumptions
+  - Constrains
+ ○ New Detailed Scope Fileds
+  - Milestones
+  - Requirements 
+  - Tasks 
+  - Risks
+  - Budget
+  - Estimates and Estimation Methods
+• Estimate Costs
+ ○ Types:
+  - Direct cost
+   + Associated with a specific resource or activity
+   + Estimated and tracked via resource cost rate
+  - Indirect cost
+   + Support multiple operation
+   + Consuption cannot be associated with a specific resource
+   + Estimated or assigned , based on organizational norms
+ ○ Resource Cost Rate
+  - The cost per a unit of measure (UOM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
