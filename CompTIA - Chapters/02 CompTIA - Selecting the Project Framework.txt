@@ -219,7 +219,139 @@ Plan > code > build > test > release > deploy > operate > monitor >> (repeat)
 - Everybody owns security in DevSecOps
 
 • Scaled Agile Framework (SAFe)
-- Popular 
+- Defines how to use many frameworks together
+- Introduces some structure to help multiple tems coordinate on cadence
+- Agile at scale: for multiple agile teams working together while   
+  retaining the flexibility of agile
+ ○ SAFe Terms:
+- Agile Team: any team regardless fo framework or methodolgy
+- Agile Release Train (ART): group of teams working together
+- Iteration: timebox for development
+- Program Increment (PI) longer-term planning cycle 
+- Program Increment Planning (PI planning): planning event for an ART
+
+- Pros:
+ ○ Apply agile practices across many teams
+ ○ Builds connections between business and technology teams
+ ○ Scalable to any size
+ ○ Coordinate many agile teams
+ ○ Good for projects spanning multiple teams
+- Cons:
+ ○ Adds overhead layer and staff
+ ○ Limits team's decision-making authority
+ ○ Adds structural constrains to the team (cadence synchronization)
+- DO NOT USE:
+ ○ Individual teams
+
+• Software Development Life Cycle (SDLC):
+- Phase-based software development framework
+- Increase quality, reduce costs via continual improvement
+- Managing software for its entire lilfe cycle - from planning to its eventual decommissioning
+- Phases customized by organizations (fit lessons learned and various frameworks)
+- SDLC model typical contains 5-8 phases
+
+- SDLC Lifecycle:
+Planning > Requirements > Design > Development > Testing > Deployment / back to req > Operations
+
+- Pros:
+ ○ Comprehensive framawork
+ ○ Incorporates thorough documentation
+ ○ Reduces risk, cost & time
+- Pros:
+ ○ Requires advanced planning 
+ ○ Constrain for agile teams
+
+• PRojects IN Controlled Environment (PRINCE2):
+- Process-based project management methodology
+- Aims to manage resources and lower risk with structured phases, task & roles
+- The most customizable framework
+- Common in Europe & Australia (UK gov standard)
+- Started as waterfall and has adopted an agile model
+
+- Roles:
+Team Manager: help PM with team supervision and quallity management
+Project Board: authorizes resources and funding. Consists of 
+Executive: represents the business's perspective
+Senior user:represents the customer's perspective
+Senior supplier:represents the implementation partner's perspective
+
+- Structure:
+7 principles, themes & processes 
+Tailored to suit the project environment
+ ○ Principles
+  + Continued business justification
+  + Learn from experience
+  + Defined roles & responsibilites
+  + Manage by stages
+  + Manage by exception
+  + Focus on products
+  + Tailor to suit the product
+  Note: principles are mandatory, everything else can be added, removed or changed
+ ○ Themes
+  + Business case
+  + Organization
+  + Quality 
+  + Plans
+  + Risk
+  + Change
+  + Progress
+ ○ Processes:
+  1) Starting up
+  2) Initiating
+  3) Directing 
+  4) Controlling a stage
+  5) Managing delivery
+  6) managing a stage boundary
+  7) Closing
+
+- Pros:
+ ○ Adaptable to any size project
+ ○ Team members onboard quickly
+ ○ Extensive communication with stakeholders
+ ○ Continual improvement built into framework
+- Cons:
+ ○ Extensive documentation can be cumbersome for some teams
+ ○ Structure requires organizational buy-in
+ ○ Good for organizations that rely on documentation
+ ○ Sood for frequently changing teams
+- DO NOT USE:
+ ○ Organizations that do NOT emphasize documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

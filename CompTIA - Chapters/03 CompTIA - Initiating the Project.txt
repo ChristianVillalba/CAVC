@@ -1,0 +1,29 @@
+# Initiating the Project
+
+## Build a project Team
+
+• Project Manager:
+ - Day-to-day oversight of a project
+ - Builds product teams and procure resouces
+ - Builds charters and procure resources 
+ - Ensure deliverables are met
+ - Establishes and manage project logs
+ - Tracks project performance
+ - Prepares and deliver status updates
+ - Manages vendor performance
+
+• Buisiness Analyst:
+ - Bridges technical and buisiness work
+ - Helps define the project
+ - Gathers business and technical requirements
+ - Ensures alignment between requirements, scope and business needs
+ - Interprets business requirements as technical requirements and vice versa
+ - Verifies project project deliverables against requirements
+ - Assists with testing and validation
+
+• Architect
+ - Designs systems and solutions
+ - Contributes to solution design
+ - Builds system blueprints
+ - Evaluates systems against organizational standards
+
