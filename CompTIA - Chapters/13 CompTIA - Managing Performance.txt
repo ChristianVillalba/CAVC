@@ -1,0 +1,60 @@
+# Managing Performance
+
+## Measure Performance
+- Creates a plan to evenly space out work and resources
+- Manages Resources consumption
+- Teams track work  remaining by day for an iteration
+- PMs can track a project or phase with a burndown
+
+• Scope Burndown Chart
+ - Used for a fixed asset - scope, time or budget
+ - Units need to be small enough to measure often
+   + Story Points
+   + Deliverables
+ - Scope changes can appear as spikes and drops in the remaining work value
+
+• Budget Burndown Chart
+ - Fixed budget suits burndown charts
+ - Valuable cost control tool
+ - Compares the pace of spending to the pace of the project
+ - Simple visual for assesssing if the project is going to run out of funds
+ - Used mostly by PMs instead of the team, but should be shared
+ - Actual remaining budget should be higher than the target remaining budget
+ ○ Perfomance gap:
+   - Each gap indicates a need for a decision
+   - Applies to a positive or negative variance
+   - Preserve ideal conditions
+   - Eliminate damaging factors
+   - Note: Understand the reason for a result: 
+     positive variance can have negative causes
+ ○ Project Perfomance Gap Analysis:
+   - Each gap indicates a need for a decision
+   - Applies to + o - variances
+   - Preserve ideal conditions
+   - Eliminate damaging factors
+   - Obj: bring discrepancies closer to the goal 
+   - Note: closing gaps is a gradual process 
+     (time between implementing solutions and seeing the results)
+
+• Contigency Reserve Utilization
+ - Project Baseline = Project Estimate + Contigency Reserves
+ - Contigency reserves: funds to cover the cost of realized risk
+ - PM authorizes use
+   + Reduce the contigency reserve balance
+   + Increase the project estimate
+ - After using contigency reserves:
+   + Project Baseline = Project Estimate + Contigency Reserves
+
+• Earned Value Management (EVM)
+ - Metrics for monitoring project performance
+ - Uses 3 data points: 
+   + PV - Planned Value Target cost and schedule
+   + EV - Earned Value
+   + AC - Actual Cost
+ - PV (Planned % Complete) x BAC (Budget at completion)
+   +  BAC Budget at completion = project cost baseline
+
+CV (over budget) = EV - AC 
+Cost Performance Index = EV / AC
+SV 
+CV below 50

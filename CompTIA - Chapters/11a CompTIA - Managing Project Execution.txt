@@ -1,0 +1,119 @@
+# Managing Project Execution
+
+## Document Progress
+
+• Maintaining Momentum
+ - Start strong
+ - Set the pace
+ - Look forward
+ - Motivate the team
+
+• Requirements Traceability Matrix (RTM)
+ ○ Benefits:
+  - Solving problems
+  - Updating systems
+  - Audit and legal compilance
+  - Impact analysis
+  - Requirements verification
+ ○ Requirements 
+  - Creates traceability between projects and the artifacts that resolve it
+  - Lives with the product (not just the project)
+  - Biderirectional traceability
+    + Track the requirements to the test
+    + Track the test to the requirements
+ ○ Time and Working Tracking Tools:
+  - Project Managment Application
+  - Time Tracking Application
+  - Project and time tracking app
+  - Task Board viual task tracking tool
+ ○ Version Control Tool
+  - Traceability software for source code
+  - Tracks change, occurrences, details and authors
+  - Retain previous versions
+ ○ Event Logs
+  - Issue Log
+   + Track and manages issues
+   + Used for communication and prioritization
+  - Defect Log 
+   + Track defects
+   + Used in software projects
+   + Facilitates defect resoulution
+   + Creates a worklist for a project team
+  - Change Log
+
+
+## Communicate Progress
+
+• Burnup Chart
+ - Used by an agile team to plan work each day
+ - Tracks project scope and time
+ - Interpreted as work progress
+ - Work vs Target chart
+• Burndown Chart
+ - Used by an agile team to plan work each day
+ - Tracks project scope and time
+ - Interpreted as work left to do
+ - Work remain to 0 at the end of the sprint
+• Velocity and Throughput Charts
+ ○ Throughput Charts
+  - Measures the number of items completed per iteration
+  - Shows historical performance
+  - Used by agile teams to set future goals
+  - Valuable insight for retrospectives
+  - Useful for any team
+ ○ Velocity Charts
+  - Measures the number of story points completed per iteration
+  - Shows historical performance
+  - Used by agile teams to set future goals
+  - Valuable insight for retrospectives
+  - Useful for any team
+• Team Meetings:
+ - Recurring tea touching point
+ - The most frequently meeting
+ - For team members to give updates on the progress
+ - Used for for problem solving and brainstorming
+ - Detailed, tactical dashboard
+• Stakeholder Meetings:
+ - Less frequent than team meetings
+ - Communication with stakeholder
+ - Shares project progress in a summarized format
+ - Internal and external stakeholder meetings will require different info and approaches
+ ○ External Stakeholder Meetings:
+  - Focused on success
+  - More filtered information
+  - Limited to externally visible info
+  - Dashboards are simple (like marketing material)
+ ○ Internal Stakeholder Meetings:
+  - More transparency 
+  - Sumarized but more detailed info
+  - includes decision-making and negotiation
+  - Dashboards facilitate decision making
+• Condition Meetings:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

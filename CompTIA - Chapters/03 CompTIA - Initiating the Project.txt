@@ -2,7 +2,7 @@
 
 ## Build a project Team
 
-• Project Manager:
+b• Project Manager:
  - Day-to-day oversight of a project
  - Builds product teams and procure resouces
  - Builds charters and procure resources 
@@ -26,4 +26,31 @@
  - Contributes to solution design
  - Builds system blueprints
  - Evaluates systems against organizational standards
+
+• Developer
+ - Writes code to expected standards
+ - Builds products according to the project plan or sprint backlog
+ - Reports to PM or product owner
+
+• Tester or Quallity Assurance (QA)
+ - Writ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

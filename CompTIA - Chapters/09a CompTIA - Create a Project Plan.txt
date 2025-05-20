@@ -31,6 +31,7 @@
    + Identify the critical path
 
 ## Establish Project Baselines
+
 • Minimum Viable Product (MVP)
 - Early version of a product
 - Just enough functionality to prove value
@@ -68,8 +69,45 @@ are sent through a formal change request process
  ○ Resource Cost Rate
   - The cost per a unit of measure (UOM)
 
+## Critical Path Method (CPM)
 
-
+- Project schedule analysis technique
+- Find the sting of dependent activities with the longest duration
+- Identify the activities that are controlling the project length
+• CPM Analysis Process:
+  1) Drawn the project acrivities and dependencies
+  2) Calculate PERT for each activities
+   + PERT estimate (time weeks) : (O + 4M + P) / 6 
+  3) Complete forward pass: 
+   + Early Start - ES
+     - The soonest an activity can start
+     - ES = Maximum EF ΣPredecesors
+   + Early Finish - EF
+     - The soonest an activity can finish
+     - EF = ES + duration of the activity
+  4) Complete backward pass
+   + Late Start - LS
+     - The latest an activity can start without delaying the project
+     - SF = LF - duration of the activity
+   + Late Finish - LF
+     - The latest an activity can finish without delaying the project
+     - LF = Minimum LS ΣPredecesors
+  5) Calculate Total Float (TF)
+   + Time an activity can delay starting without impacting the total project time
+     - Use prefered option:
+     - TF = LS - ES
+     - TF = LF - EF
+  6) Calculate Free Float
+   + Time an activity can delay starting without impacting others activities
+     - FF = the minimum ES of all direct sucessors - EF
+     - FF < TF && !<= 0 (smaller than TF and NO smaller than 0)
+  Note) TF vs FF
+   + TF fixes boundaries at the project's start and finish 
+   + Everything can float between these boundaries
+   + FF fixes boundaries at the start and finsish at the edge of the activity
+   + Activities can only shift to the boundary of the next activity
+  7) Indentify the critical path
+   + Critical Path list of all the activities where TF = 0
 
 
 

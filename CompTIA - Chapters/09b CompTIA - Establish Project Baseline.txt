@@ -1,0 +1,26 @@
+# Establish Project Baselines
+
+## Minimum viable product
+- Early version of the product
+- Just enough functionality to prove value
+- Cornerstone of iterative incremental development
+
+• Detailed scope statement
+- Expands on preliminary scope
+- Uses the same template as preliminary scope statement
+- Finalizes the scope for baseline
++ Note: after the scope and baselines are set, 
+  adjustments or changes are sent through a formal change request process
+ ○ Expanded Preliminary Scope Fields:
+  + Project Scope Description
+  + Project Acceptance Criteria
+  + Project Deliverables (in scope)
+  + Project Exclusions (out of scope)
+  + Assumptions 
+  + Constrains
+ ○ New Detailed Scope Fields
+  + Milestones
+  + Requirements Tasks
+  + Risks
+  + Budget
+  + Estimates and Estimation Methods
