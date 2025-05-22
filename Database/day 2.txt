@@ -1,0 +1,20 @@
+Sing att
+Tracking number
+Composite att:
+Tshirt , colour, size
+Derived att
+only 5 left
+Single val att
+£12 
+Multi val att:
+Closest collection points:
+Address 1
+Address 2
+
+task:
+DOB as date type
+
+Create a a student table
+course table
+
+ 

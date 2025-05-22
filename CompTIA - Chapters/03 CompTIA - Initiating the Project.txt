@@ -2,7 +2,7 @@
 
 ## Build a project Team
 
-b• Project Manager:
+• Project Manager:
  - Day-to-day oversight of a project
  - Builds product teams and procure resouces
  - Builds charters and procure resources 
@@ -33,7 +33,228 @@ b• Project Manager:
  - Reports to PM or product owner
 
 • Tester or Quallity Assurance (QA)
- - Writ
+ - Writes test against requirements
+ - Runs test on completed code to find defects and bugs
+
+• Customer or End-User:
+ - Offers end-user perspective about usability
+ - Suggests new features or the next development priority in the project
+ - Collaborates with team members to desing the product
+
+• Vendor
+ - Provides the work outlined in the contract
+ - Maintains the service-level agreements (SLAs) outlined in the contract
+ - Maintains clear lines of communicaton and productive relationships
+
+• Stakeholder
+ - Understands the projects purpose and how it will affect them
+ - Transparent fabout their support or lack there of for the project
+ - Provides timely feedback about the project's progress and direction
+
+• Subject Matter Expert (SME)
+ - Not an explicit team role
+ - Anybody with expertise on a topic
+ - Will offer guidance and insight
+
+• Project Team Member
+ - Anybody on the project team is a project team member
+ - A core team member works on the project full-time
+ - An extended team membmer works on the project part-time
+ - Provide skilss and expertise
+ - Complete tasks
+ - Process documentation
+ - Form positive working relationships
+
+• Project Organizational Chart
+ - Displays the project interface for the team
+ - Clarifies structure and distribution authority
+ - Includes:
+   + Project sponsor
+   + Steering committee
+   + Project manager
+   + Logical groupings 
+   + Solid and dotted lines
+
+• Responsibility Assignment Matrix (RAM)
+ - Describes roles & responsibilities
+ - Assigns roles at the task levels
+ - Establishes a sense of ownership
+ - Also Called RACI chart or RACI matrix
+ - Is a living document
+  ○ Roles (RACI)
+   - Responsible (R)
+   - Accountable (A)
+   - Counsulted (C)
+   - Informed (I)
+ ○ Contructing the matrix:
+   - Task(colums) / Name&Role(rows)
+   - Cuadrants: assigns individuals to tasks, marking the role (R,A,C,I)
+
+• Stakeholder Engagement
+  ○ Benefits:
+   - Identify supporters and detractors for the project
+   - Build more support with stakeholders
+   - Increase the project's visibility
+   - Builds repport with stakeholder
+  ○ Process
+   1) Identify stakeholders
+     - Brainstorm, use representatives & use visual grouping
+   2) Prioritize the stakeholders
+     - Decide how much time and attention they need
+     - A simple quadrant chart can help
+   3) Undrestand the stakeholders
+     - Communication: expectations and share info about the project
+     - Identify detractors and their concerns
+     - Determine who will change from detractors to supportive 
+     - Evaluate risk
+   4) Develop the engagement plan
+     - Summarize what you learned
+  
+## Prepare Project Initiation Docs
+
+• Review Existing Artifacts
+- Business case
+- Exploratory documents
+- If you are taking over a project: review artifacts already created:
+  + Lessons learned
+  + Useful templates
+  + Realated projects (same product or program)
+
+◘ Perfomance Measures:
+
+• KPI (Key Performance Indicator)
+- Esimates of a system's health
+- Measures curcial measures
+- Proxy measure for the overall system or an eventual result
+- Includes leading and lagging indicators
+  ○ Lagging Indicaor:
+   - Reflective measeures
+   - Final desired outcome. 
+   - Captured after work is done. Too late to change
+   - Data lags behind improvement opportunities
+  ○ Leading Indicator: 
+   - Predictive measures 
+   - Measured early in the process
+   - If leading indicator shows problems, we have time to improve
+   - Leading indicator leads to the project's result
+  ○ KPI (Key Performance Indicator):
+   - Multiple KPIs to measure a system (enough but not too many)
+   - Monitored regulary in long-term
+   - Include actual target values
+   - Should drive action (something is wrong : no action required)
+
+• SMART OBJECTIVE
+- Specific Measurable Achievable Relevant Time-bound
+- Simple goal-writing structure that improves clarity
+- Well defined goals: everybody have same targets
+
+• OKR (Objective and Key Results)
+- Goal-setting framework
+- Aim to achieve aspirational goals quickly
+- Aligns goals to strategy throughout an organization
+- Loose the alignment to keep processes nimble
+- Less is more: OKRs are critical change that improves organization
+
+◘ Timeline charts
+
+• Road Map: 
+- Less detail
+- High-level orverview
+- Lists major progress points
+- Used for executive summaries
+
+• Milestone Chart
+- Moderate detail
+- Simple visual
+- Chronological
+- Used in project charter and kickoff materials
+
+• Gantt Chart
+- More detail 
+- Detailed project plan
+- Shows taks, time & dependency 
+- Describes the task needed (to reach milestones)
+- Used by the project team during planning, execution & closing
+
+◘ Project Charter
+- Brief formal doc
+- Outlines the project parameters 
+- Creates shared understanding of the project's purpose
+- Clarifies PM role and authority level
+
+• Templates 
+- General project info
+  + Project name, description, version number and date, PM & project sponsor
+- Project vision
+  + Objectives, purpose, preliminary scope, success critieria, Expected benefits
+- Organization (people)
+  + Stakeholders, customer (or end-users) project roles, team members, project org.
+- Implementation overview  
+  + Timeline and milestones, resources requirements, risk, 
+    assumptions and constrains, budget
+
+◘ Preliminary Scope Statement
+- Expands on the project scope listed in the project charter
+- Uses similar fields as the project charter
+- Project charter: why the project exists
+  Preliminary Scope Statement: how the project will be done
+- It will not contain all details
+
+◘ Records management Plan
+- Data, facts, figures and info
+- Document: artifact containing info
+- Record: artifact needed to run the business
+- All documents contain data
+- Some documents are records (depending on data type)
+- All records are documents
+
+• Requirements:
+- Comply with org policy
+- Records organized and easy to find
+- Plan accessible ONLY to authorized users 
+- Establish accepted communication channels
+- Must address the entire record life cycle
+
+◘ Project Kickoff
+- Signifies teh end of the project inictiation pahse
+- Marks the start of the project work
+- The first time the entire team gathers
+- Iteractive session to clarify detailt and miscommunications
+- Ends with clear, aligned expectations of what the project will deliver
+- Vary in formality and structure but:
+   + Formal :
+     - Large teams
+     - External parties
+   + Informal :
+     - Small or internal teams
+     - Everybody already works together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
