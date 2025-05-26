@@ -1,0 +1,210 @@
+CHAPTER 1
+◘ ROI = (net profit / Cost) * 100
+
+CHAPTER 2
+◘ If the team used iterative and incremental development (IID), they would build one feature at a time.
+◘ philosophy and best practices of PRINCE2: 
+Continued business justification, Learn from experience, Defined roles and responsibilities
+	
+CHAPTER 5
+• A project manager drafts a high-level design (HLD) document 
+prior to an upcoming corporate and client meeting. 
+What characteristics best describe a HLD document?
+◘ It is created during the analysis phase of the SDLC process 
+and assesses technical feasibility.
+◘ It is a conceptual design that describes 
+how the solution will need to work and integrate.
+
+• A manufacturing company needs to develop a report that shows its stakeholders 
+which resources generate the most revenue for the company. 
+Which of the following charts follows a principle that contends that 
+a relatively large number of problems or defects, typically 80 percent, 
+are commonly due to a relatively small number of causes, typically 20 percent?
+◘ A Pareto chart visualizes the Pareto principle using lines and columns. 
+Each column represents the counts of a category, 
+and the columns appear in descending order by total count. 
+The line on the chart measures the total percentage of the count. 
+This line will slope upward.
+
+• A solution architect decides how they can best maximize 
+their time remaining before they must deliver software to a client. 
+How should the architect prioritize the features of the software 
+and still meet their deadline?
+◘ The architect needs to understand the business requirements and 
+how flexible they are. 
+The functional requirements will deliver the most value to the client 
+in this scenario.
+
+• A government organization needs to select a secure method 
+for communicating with public customers. 
+Their top priorities are protected communication and 
+adherence to regulatory guidelines. Which of the following 
+solution design elements are the most critical in this scenario? 
+◘ Compliance ◘ Security
+
+• A project manager requests the cyber subject matter expert to evaluate 
+an upcoming project’s IT infrastructure model. 
+What characteristic is associated with a single-tier architecture?
+◘ It is not separated and is a typical structure for test and small production requirements. 
+
+• A dashboard analyst develops reports and dashboards for 
+external partners that did not sign a non-disclosure agreement. 
+What type of privacy considerations must be taken into consideration 
+when developing outward facing reports?
+◘ Is the data already public and will not cause relative harm 
+if viewed by outside parties?
+◘ Does the dashboard reflect internal data, 
+which is not otherwise public information?
+◘ Does the dashboard contain confidential data, and if so, 
+has access been set appropriately?
+
+• What are the three most common tiers in an N-tier architecture?
+◘ Presentation
+◘ Application
+◘ Data
+
+• A project manager (PM) develops a graph for the team's stakeholders. 
+The PM wants to be able to visually depict a comparison in the improvement 
+in quality scores against the cost of achieving them. 
+What type of project tool would best meet the PM's requirements?
+◘ Law of diminishing returns chart
+A chart depicting the law of diminishing returns will compare 
+improvement in quality scores against the cost of achieving them.
+
+CHAPTER 6:
+
+• A database manager has begun to notice a decline in 
+key performance indicators (KPIs) on their database. 
+What phase focuses on the updating, maintenance, 
+and evaluations of used resources? (same answer than)
+• During which phase of the Resource Lifecycle should a well-established firm 
+focus on employee retention for a yearlong project centered on 
+continuous software development?
+◘ The maintenance and monitoring phase represents the operational 
+support that people, systems, and equipment need to run smoothly. 
+Resources need regular updates, maintenance, and evaluation. 
+The company also works on employee retention in this phase.
+
+• A project manager prepares to distribute tasks to the project team. 
+Before doing this, the project manager must determine 
+each team member's available time. 
+How will the project manager calculate a team member's available time?
+◘Subtracting overhead hours from the available working hours will determine 
+the time left for allocation in this scenario.
+
+• One of the three quality assurance (QA) testers for a website project 
+has complained about being burned out. Upon checking the skills matrix, 
+the project manager (PM) sees that of the three, the burned-out QA tester 
+is an expert QA for backend testing, optimization, and mobile testing. 
+How would the PM handle this situation of an employee experiencing burnout? 
+◘ Check the utilization gap for other testers and level the resources.
+◘ Train other QA testers to increase team performance.
+
+• A project is two weeks behind schedule, and the project manager (PM) 
+does not know why. So the PM is planning a team brainstorming activity 
+to find the potential cause of this delay. 
+What gap analysis tool will the PM use?
+◘ A fishbone diagram, also known as a cause and effect diagram, 
+is a tool that helps to visualize various factors that impact a single outcome. 
+
+• A project manager needs to establish a project team for a new web design 
+project. Before assigning responsibility and bringing on team members, 
+what must the project manager conduct?
+◘ A needs assessment identifies what a project will need to provide to solve 
+a business problem. 
+It defines which resources the project needs, including skills, 
+software, equipment, and other tangible and intangible resources.
+
+CHAPTER 7:
+
+•A senior developer for an e-commerce website of critical importance 
+has to go on leave of absence due to a family emergency. 
+What should a project manager (PM) do for this risk?
+◘ Follow the contingency plan for this risk.
+ Since the risk will happen, the PM should follow the fallback plan (the risk contingency plan).
+
+• After several months of building and testing the e-commerce marketing feature, 
+it is ready to go live. The development team has invited the operational team 
+for the hand-off. 
+The project manager senses conflict during this period. 
+What can the project manager do in this case?
+◘ Follow the transition plan guidelines.
+
+• The equipment delivery team leader has left a voicemail saying that 
+a forest fire in California might prevent the equipment from arriving on time. 
+The team leader wanted to give the customer an advanced warning. 
+Which of the following statements is true?
+◘ A trigger for a risk is an indication that a risk event is likely to occur. 
+In this scenario, the delivery team leader sending a voicemail about 
+the potential delay due to the forest fire serves as an alert or 'trigger' 
+that a specific risk (delayed equipment delivery) may materialize.
+
+• The project manager (PM) has identified a risk event on the current project 
+that could save $50,000 in project costs if it occurs. 
+Based on this, which of the following is true?
+◘ This risk event is an opportunity, and the PM should exploit it.
+ therefore, it is a positive risk.
+
+
+
+
+
+
+
+CHAPTER 9: 
+
+• What is the main signal between the end of the project planning phase and the beginning of the execution phase?
+◘ The approval of the project management plan marks the end of the project planning phase 
+and the beginning of the execution phase. 
+Once the project sponsor, project manager, and functional managers approve the project plan, 
+this is the signal that the team can begin delivering work. 
+
+• The project to build software for a point-of-sale system has just ended, 
+and the project team has conducted a retrospective or lessons learned meeting. 
+The project manager stores the outputs from this meeting in a lessons learned document for which primary reason?
+◘ The lessons learned document becomes a reference point for future projects. 
+Whenever a project manager (PM) starts a new project, part of the initiation process is 
+reviewing existing lessons learned to help improve the next project's plan.
+
+• A project manager (PM) has just been assigned to a new high-priority project to manage at the end of the planning phase. 
+The PM has the preliminary scope statement, which the previous PM created in the initiation phase. 
+There are also more detailed definitions for the project goals, scope, and requirements. 
+What project document is the PM ready to finalize?
+◘ The detailed scope statement finalizes the project scope for the planning process. 
+The PM can validate the project plan against the preliminary scope by creating a detailed scope statement. 
+In this case, the former PM has completed the preliminary scope and further defined the project goals, requirements, and deliverables. 
+So, the PM is ready to finalize the scope statement. 
+The detailed scope statement contains the baseline, the WBS, and the project plan.
+
+• The project manager (PM) on a software build contract has sent a minimally viable product (MVP) for user acceptance testing (UAT). 
+The UAT tester immediately got an error message and could not appropriately test the core functions. 
+Upon review, the PM discovered an error in the code that affected one of the main features of the MVP.
+What type of software test could have caught this error?
+◘ Smoke test 
+
+• What quality management activity presents finished deliverables (outputs) to the customer to see if the project meets the customer's expectations?
+◘ Validation is a project activity that occurs outside the team and looks only at finished deliverables with the customer. 
+Validation is subjective as it measures desirability. 
+It presents outputs to the customer to see if the project meets their expectations. 
+The customer either accepts the result to validate the project or rejects it.
+
+• A client for a software design project has indicated that the software engineer must develop three software features 
+early on for the product to be minimally viable. 
+Why is creating a minimally viable product (MVP) for the client an essential step? (Select all that apply.)
+◘ The minimum viable product (MVP) is an early version of the product. 
+However, it has enough functionality to demonstrate how the product will operate so stakeholders can use it and provide feedback.
+
+• What is the main difference between contingency reserves and management reserves?
+◘ Contingency reserves are a calculated cost buffer that covers documented or forecasted risks, 
+while management reserves are an additional sum of time or money that covers setbacks that are not forecasted.
+
+◘ The smoke test runs after the code compiles into a build and before it deploys to confirm that 
+the main features are working before detailed tests are run. 
+A smoke test will ensure the core features work. No other tests can run until the core functions can perform.
+
+◘ TF Same activity, can start without delaying anything else
+◘ FF Between Following acts. ES.B- EF.A
+
+
+CHAPTER 11
+
