@@ -1,0 +1,91 @@
+# 12 Managing Issues and Changes
+
+## Resolve Issues
+Risk: positive or negative
+Issue: risk that is occurring
+Issues: positive or negative events
+
+• Issue Managment Process:
+  1) Identify
+     - Record issues promptly
+     - Keep them in a centralized log
+     - Logs must be available and editable (by stakeholder)
+     - Keep issue information (inc prioritization) in the issue log
+     - Note: appropiate scalation
+  2) Analyze
+     - Root cause: source
+     - Key to Permanently fixing issues
+     - Scatter  Diagram: 																																																				
+       + / (r2 correlation positive) 
+       + \ (r2 correlation negative)
+       + :: (r2 = 0 no correlation)
+       + Note: scatter diagrams measure correlation
+               Do not guarantee causation
+     - Run Chart
+       + Time-based line chart
+       + Plots the value of the same metric over timef
+       + Useful monitoring trends and ongoing perfomance
+     - Preto Chart
+       + Frequency chart
+       + Rearranges categories to show most frequent issues on the left
+       + Identify priorities, relevant factors
+     - Five-why:
+       + Loods for teh source of issues under multiple symptopms
+       + Easy to learn and use
+       + Connection between causes and distant effects	
+     - Issue prioritization tools:
+       ○ Severity:
+         + Critical: system down
+         + Major: mayor features unavailable
+         + Minor: key features require a workaround
+         + Low: all features are functinal 
+       ○ Urgency
+         + Critical: resolve immediately
+         + Major: resolve within hours
+         + Minor: resolve within days
+         + Low: resolve when convinient
+       ○ Impact on project
+         + High: project may not finish
+         + Medium: project may be delayed
+         + Low: project will be fine
+       ○ Impact on organization
+         + High: impacts large customer segment
+         + Medium: impacts many (eg: a dept)
+         + Low: impacts few (a couple of users)
+       ○ Issue Escalation
+         + High: Already escalated
+         + Medium: escalation points defined but not reached yet
+         + Low: no plans to escalate																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
+  3) Resolve
+     - Escalate and create escalation plans as needed
+     - Assign an owner who will then resolve the issue
+     - Execute contingency plans
+  4) Monitor
+     - Issue resolution plan:
+       + Monitor resolved issues so they stay resolved
+       + Ensure issues aren't more problematic than expected
+       + Monitor project performance to identify new issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

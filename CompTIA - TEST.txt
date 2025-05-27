@@ -1,5 +1,5 @@
 CHAPTER 1
-◘ ROI = (net profit / Cost) * 100
+◘ return on investment ROI = (net profit / Cost) * 100
 
 CHAPTER 2
 ◘ If the team used iterative and incremental development (IID), they would build one feature at a time.
@@ -146,12 +146,71 @@ Based on this, which of the following is true?
  therefore, it is a positive risk.
 
 
+CHAPTER 8:
 
+◘ WBS: work breakdown structure
+◘ Using the three-point estimate (E), E = (O + M + P)/3
 
+• A project manager (PM) must break down the work to the company's engineers 
+for a website development project, with a hard deadline of five weeks. 
+The marketing team has requested three fixed and three preferred deliverables 
+for the project if the time is available. 
+The team is self-organizing. How will the PM break down this project?
+◘ The project backlog is a better choice since the project has a flexible scope, 
+fixed time, and resources.
 
+• A project manager (PM) must break down the development of 
+a game development project to its five engineers, three testers, 
+and two designers. The team is currently using the agile framework 
+to develop the game.
+How could the PM break down the project backlog?
+◘ Epic is a significant deliverable that the PM can break down further 
+into features that can further break down to user stories. 
+Here the PM needs to break down the project backlog and use the Epic, 
+Features, and User Stories.
+
+• The company has hired a project manager (PM) to manage the execution of a project. 
+However, a new college intern is unsure of what work to accomplish on the project 
+and asks the PM. Where can the PM find the detailed description of 
+the work packages?
+◘ The PM should consult the work breakdown structure (WBS) dictionary 
+to get detailed information about what tasks the intern needs to accomplish. 
+For example, the WBS dictionary contains information about tasks 
+each team member needs to complete, responsibilities, prerequisites, 
+due dates, etc.
+
+• A project manager (PM) is about to start the breakdown of a project 
+for execution. The PM follows which order for the WBS creation process?
+◘ First, the PM should review the scope of the project. 
+After capturing the project's scope, the PM should identify 
+the deliverables to turn into a work breakdown structure (WBS). 
+After determining the deliverables, the PM should identify the team members 
+with the skills needed for the project. Finally, the PM should use either 
+a grouping or construction method to create the level 2 elements of the project 
+WBS.
+
+• A junior project manager (PM) assigns resources to a 
+delivery tracking software project. 
+Upon checking the responsibility assignment matrix (RAM), 
+the PM finds that two senior developers are accountable for the app development 
+activity's progress, four junior developers are responsible for working 
+in the app development activity, one software architect for consultation, 
+and a project director for reporting. 
+What could be the potential issue in this RAM?
+◘ In the RAM chart, the accountable person will be held accountable for completing the work. 
+Having more than one person accountable for the same activity increases ambiguity 
+and could also lead to misdirection of the project. 
+So two senior developers accountable for the software development activity 
+could lead to ambiguity.
 
 
 CHAPTER 9: 
+
+
+◘ TF Same activity, can start without delaying anything else
+◘ FF Between Following acts. ES.B- EF.A
+
+◘ critical path method (CPM) diagram
 
 • What is the main signal between the end of the project planning phase and the beginning of the execution phase?
 ◘ The approval of the project management plan marks the end of the project planning phase 
@@ -182,29 +241,313 @@ Upon review, the PM discovered an error in the code that affected one of the mai
 What type of software test could have caught this error?
 ◘ Smoke test 
 
-• What quality management activity presents finished deliverables (outputs) to the customer to see if the project meets the customer's expectations?
-◘ Validation is a project activity that occurs outside the team and looks only at finished deliverables with the customer. 
+• What quality management activity presents finished deliverables (outputs) 
+to the customer to see if the project meets the customer's expectations?
+◘ Validation is a project activity that occurs outside the team 
+and looks only at finished deliverables with the customer. 
 Validation is subjective as it measures desirability. 
-It presents outputs to the customer to see if the project meets their expectations. 
+It presents outputs to the customer to see if the project meets 
+their expectations. 
 The customer either accepts the result to validate the project or rejects it.
 
-• A client for a software design project has indicated that the software engineer must develop three software features 
+• A client for a software design project has indicated that 
+the software engineer must develop three software features 
 early on for the product to be minimally viable. 
 Why is creating a minimally viable product (MVP) for the client an essential step? (Select all that apply.)
 ◘ The minimum viable product (MVP) is an early version of the product. 
-However, it has enough functionality to demonstrate how the product will operate so stakeholders can use it and provide feedback.
+However, it has enough functionality to demonstrate how the product 
+will operate so stakeholders can use it and provide feedback.
 
-• What is the main difference between contingency reserves and management reserves?
-◘ Contingency reserves are a calculated cost buffer that covers documented or forecasted risks, 
-while management reserves are an additional sum of time or money that covers setbacks that are not forecasted.
+• What is the main difference between contingency reserves 
+and management reserves?
+◘ Contingency reserves are a calculated cost buffer that covers documented 
+or forecasted risks, while management reserves are an additional 
+sum of time or money that covers setbacks that are not forecasted.
 
-◘ The smoke test runs after the code compiles into a build and before it deploys to confirm that 
+◘ The smoke test runs after the code compiles into a build and before 
+it deploys to confirm that 
 the main features are working before detailed tests are run. 
-A smoke test will ensure the core features work. No other tests can run until the core functions can perform.
-
-◘ TF Same activity, can start without delaying anything else
-◘ FF Between Following acts. ES.B- EF.A
+A smoke test will ensure the core features work. No other tests can 
+run until the core functions can perform.
 
 
-CHAPTER 11
+CHAPTER 10:
+
+
+◘ capital expense (CapEx)
+◘ statement of work (SOW)
+◘ request for proposal (RFP)
+
+• An organization has earmarked a new data center as a capital expense (CapEx) 
+that the organization will procure in two years. However, a current project 
+needs storage for cloud data, and the current data center will not be viable 
+for this purpose. As the project manager (PM), 
+what is the best way to proceed?
+◘ Rent cloud storage from a third-party vendor and include it as OpEx.
+Operating expenses (OpEx) can include an organization's regular expenses, 
+such as salaries, taxes, and recurring expenses 
+(i.e., subscriptions, rentals, and utilities). 
+Therefore, the organization could justify renting cloud storage from 
+a third-party vendor as an operating expense.
+
+• What is the main difference between a procurement contract 
+and a purchase order (PO)?
+◘ A procurement contract establishes an agreement to purchase something 
+at some point, while a PO is a customer's request 
+for specific goods or services.
+
+• What type of statement of work (SOW) describes the expected outcomes 
+and minimum performance standards?
+◘ Performance SOW (statement of work) 
+A performance SOW describes the expected outcomes along with minimum performance 
+standards. It is more fixed than a functional SOW, 
+but it is still outcome-focused and flexible for vendors.
+
+• A procurement specialist collects information to develop the criteria 
+to include in a request for proposal (RFP) for a specific product. 
+What function can the procurement specialist perform to collect information 
+about the product, industry trends, and potential suppliers?
+◘ Market research
+Market research provides procurement specialists with information 
+to learn about products or services. 
+The specialist collects information about the product, the suppliers, 
+and industry trends. Market research prepares the team 
+for product procurement by giving them the insight to include 
+better criteria in an RFP request for proposal . 
+
+• A potential vendor is reviewing a request for proposal (RFP) 
+and statement of work (SOW) for a new project. 
+The project manager (PM) wrote the SOW as a functional SOW outlining 
+the requirements of the finished product only. In response to the RFP, 
+what would be suitable for the vendor to address since the PM 
+provided a functional SOW? (Select all that apply.)
+◘ A creative approach used in a previous project with a similar deliverable
+◘ A list of prior performances building the same product to 
+  demonstrate a variety of approaches
+In a functional SOW, how to deliver the product is left to the vendor,
+who can propose alternative approaches or scope adjustments.
+It would be suitable to mention prior performance in creating 
+the same product to demonstrate a variety of approaches. 
+In a functional SOW, the vendor can propose alternative approaches.
+
+• A project manager (PM) is managing the vendor relationship of 
+a virus detection software project. The PM determines that the vendor 
+and the project team should communicate weekly regarding the project 
+deliverables and that each team member should articulate a recognition 
+at the retrospectives. The PM should document these types of expectations 
+in what artifact?
+◘ Rules of engagement
+Rules of engagement should incorporate the vendor's obligations, 
+such as a plan for approving deliverables or providing feedback promptly. 
+Rules of engagement monitor team performance and also call attention 
+to deviations. The cadence of discussing deliverables and creating 
+opportunities to boost morale and productivity are examples of rules 
+of engagement.
+
+• A project manager (PM) is working on an upcoming software upgrade project 
+with a defined scope. The software upgrade will take several years 
+due to multiple phases of upgrades. 
+Which type of contract provides for incentives or additional payments 
+if the project meets specific targets or goals, such as finishing 
+the project ahead of schedule and receiving an extra $500,000 as a result?
+◘ Fixed-price incentive fee
+A fixed-price incentive fee contract offers incentives or additional payments 
+if the project meets specific targets. The client identifies specific targets 
+by measurable performance on the contract. 
+The client would be satisfied if the project came in on time but has 
+the funds to cover stretch goals.
+
+• A project manager (PM) completes vendor evaluation techniques 
+to determine which vendor to select for a project. 
+The PM finds that vendor A has a great reputation and offers 
+an approach to the project that is desirable and reliable. 
+Vendor A's quote is higher than expected, but reasonable. 
+Vendor B has an unknown reputation and offers an approach to the project 
+that is unique but untested in the market. 
+Vendor B's quote is lower than expected. 
+What evaluation technique was applied, and what vendor should be selected?
+◘ Best value evaluation technique, select Vendor A
+Best value evaluation considers cost and additional performance factors 
+when selecting the vendor with the most value at a reasonable cost. 
+Vendor A is the best value due to the vendor's reputation, 
+desirable approach, and reasonable cost.
+
+• A senior manager attended a regional conference 
+and interacted with several competitor clients. 
+At the conference, the senior manager learned that the contractor 
+is currently working on a high-cost retail website project 
+for the senior manager's firm. 
+The contractor has a history of overbilling for their work. 
+The senior manager returns from the conference and asks to see 
+verification of all the evaluation techniques utilized to select this vendor. 
+The project manager (PM) provides evidence of a vendor demonstration, 
+technical approach review, and evidence of financial solvency. 
+What evaluation technique did the PM miss that could have discovered 
+this information?
+◘ Reference checks
+Reference checks inquire about the vendor's history 
+with former clients. Reference checks reveal information from 
+the sources that the PM might not receive elsewhere, such as how they 
+interact with the client, their responsiveness, and their cost management. 
+A reference check could have revealed information regarding 
+the contractor's overbilling.
+
+• What is NOT an element of a warranty?
+◘ Cost 
+is not something that a warranty covers. 
+A warranty is a contractual obligation, explicit or implied, 
+that goods or services will meet a predetermined standard, 
+and the contract addendum would typically include them.
+
+
+CHAPTER 11:
+
+
+◘ requirements traceability matrix (RTM) 
+◘ Sprint planning uses historical performance to predict future performance. 
+Therefore, the team should have a goal based on historical performance.
+◘ The phase gate review meeting occurs at every phase gate 
+and at the end of the project. 
+
+• The project team has been working on an application software
+for the past 20 days. 
+The target for completed work on the burnup chart estimates 
+14 task hours a day. 
+On day 20, the project team completed 308 task hours over the 
+20 day period. What does this imply?
+◘ The team has exceeded their schedule by 28 task hours.
+◘ The team has been averaging more than the estimated task hours per day.
+
+
+CHAPTER 12:
+
+
+◘ Scatter diagram
+◘ change control board
+
+• The project manager (PM) creates a scatter diagram to analyze whether 
+faults occur during nightly scheduled system outages. 
+The scatter diagram yields an R2 of 0. 
+What conclusion can the PM draw based on the scatter diagram?
+◘ An R2 correlation value of 0 indicates that no relationship exists 
+between the two variables: faults occurring and nightly scheduled system outages.
+
+• A new project manager (PM) is looking to perform a root cause analysis 
+to determine why the project is running behind schedule. 
+Which of the following types of analysis might the PM find effective 
+and easy to use as a starting point? (Select all that apply.)
+◘ A scatter diagram graphically demonstrates the relationship 
+between two root cause variables. 
+catter plots work well with large data and create an easy-to-read diagram. 
+However, they are not a simple form of root cause analysis.
+
+• The project team plans to monitor when the implemented changes 
+begin to affect system performance. 
+The team will look for what type of variation?
+◘ Special cause variation
+Special cause variations are unique events indicating that something 
+changed about a process and created an unusual outcome.
+
+• A project team is working on the release of an application to 
+internal users of a company. The users are not expected to use this 
+application outside of business hours. A project team member notifies 
+the project manager (PM) that a missed maintenance window caused a core 
+system feature of the application to no longer function after 
+business hours on a Friday evening. 
+The PM escalated the necessary change request and received 
+emergency authorization to schedule the system update for 
+Sunday morning so as not to delay the project any further. 
+What priority level should the project manager assign 
+this issue on Sunday morning?
+◘ Major severity, medium urgency, medium impact
+The issue is major severity yet medium urgency with 
+an unplanned downtime over the weekend. 
+The problem will have a medium impact by delaying the project.
+
+• A project manager (PM) works on a project that includes 
+a change control board. 
+How does the PM's role in the change control process 
+look different on this project than on a project without a change control board? 
+(Select all that apply.)
+◘ The change control board evaluates, approves, and denies change requests.
+◘ The PM receives and analyzes change requests and makes recommendations 
+to the change control board.
+
+• The project team plans to notify customers about changes to 
+how they log in to a system. 
+The team plans to inform customers that login credentials 
+will remain the same, but the logging-in process will look different. 
+This type of change falls into what category?
+◘ Normal change
+Normal changes are modifications that do not have a set process 
+and do not happen often. 
+These changes are planned in advance and require customer notifications 
+to varying degrees.
+
+• The project manager submits a change to the software code for approval. 
+What type of approvals will the project manager request?
+◘ Product owner approval
+◘ Architectural approval
+◘ Technical approval
+Software products often have several owners who will review 
+and approve changes, either in place of or alongside a change control board.
+Software is integral to business operations, and the company's information 
+flows through multiple software systems. 
+Any piece of software in the architecture could be the source of truth for another system, 
+and changes could have a ripple effect throughout the organization. 
+Therefore, the organization's architects must evaluate these impacts.
+Technical staff familiar with the systems must review and approve source code 
+changes and configuration changes.
+
+• A project manager (PM) leads the team in conducting a thorough 
+root cause analysis. Why is this an important process? (Select all that apply.)
+◘ Project teams conduct root cause analysis to prevent issues from reoccurring.
+◘ Root cause analysis allows the team to determine why an issue is occurring.
+
+• The project manager (PM) asks the team to meet and brainstorm solutions together
+ to resolve a project issue. 
+Why should the team members bring issues to the team for group analysis 
+instead of generating solutions individually? (Select all that apply.)
+◘ Groups can work together to find solutions that individuals cannot.
+◘ Individuals cannot often solve complex problems, nor do complex problems 
+have only one root cause.
+
+• The project manager (PM) evaluates a change request
+for modifying project deliverables to include updating a legacy system. 
+The operational team responsible for that system does not already participate 
+in the project, and the PM will request their participation. 
+What type of change does this represent?
+◘ A strategic change
+Strategic changes include decisions with effects beyond the boundaries of 
+the project. 
+This change involves a system outside the current project scope 
+and will require additional project resources in the form of 
+additional team members.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
