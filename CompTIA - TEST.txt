@@ -2,9 +2,11 @@ CHAPTER 1
 ◘ return on investment ROI = (net profit / Cost) * 100
 
 CHAPTER 2
-◘ If the team used iterative and incremental development (IID), they would build one feature at a time.
+◘ If the team used iterative and incremental development (IID), 
+they would build one feature at a time.
 ◘ philosophy and best practices of PRINCE2: 
-Continued business justification, Learn from experience, Defined roles and responsibilities
+Continued business justification, Learn from experience, 
+Defined roles and responsibilities
 	
 CHAPTER 5
 • A project manager drafts a high-level design (HLD) document 
@@ -15,8 +17,8 @@ and assesses technical feasibility.
 ◘ It is a conceptual design that describes 
 how the solution will need to work and integrate.
 
-• A manufacturing company needs to develop a report that shows its stakeholders 
-which resources generate the most revenue for the company. 
+• A manufacturing company needs to develop a report that shows 
+its stakeholders which resources generate the most revenue for the company. 
 Which of the following charts follows a principle that contends that 
 a relatively large number of problems or defects, typically 80 percent, 
 are commonly due to a relatively small number of causes, typically 20 percent?
@@ -45,7 +47,8 @@ solution design elements are the most critical in this scenario?
 • A project manager requests the cyber subject matter expert to evaluate 
 an upcoming project’s IT infrastructure model. 
 What characteristic is associated with a single-tier architecture?
-◘ It is not separated and is a typical structure for test and small production requirements. 
+◘ It is not separated and is a typical structure for test 
+and small production requirements. 
 
 • A dashboard analyst develops reports and dashboards for 
 external partners that did not sign a non-disclosure agreement. 
@@ -121,7 +124,8 @@ CHAPTER 7:
 has to go on leave of absence due to a family emergency. 
 What should a project manager (PM) do for this risk?
 ◘ Follow the contingency plan for this risk.
- Since the risk will happen, the PM should follow the fallback plan (the risk contingency plan).
+ Since the risk will happen, the PM should follow the fallback plan 
+(the risk contingency plan).
 
 • After several months of building and testing the e-commerce marketing feature, 
 it is ready to go live. The development team has invited the operational team 
@@ -197,7 +201,8 @@ activity's progress, four junior developers are responsible for working
 in the app development activity, one software architect for consultation, 
 and a project director for reporting. 
 What could be the potential issue in this RAM?
-◘ In the RAM chart, the accountable person will be held accountable for completing the work. 
+◘ In the RAM chart, the accountable person will be held accountable 
+for completing the work. 
 Having more than one person accountable for the same activity increases ambiguity 
 and could also lead to misdirection of the project. 
 So two senior developers accountable for the software development activity 
@@ -212,32 +217,45 @@ CHAPTER 9:
 
 ◘ critical path method (CPM) diagram
 
-• What is the main signal between the end of the project planning phase and the beginning of the execution phase?
-◘ The approval of the project management plan marks the end of the project planning phase 
-and the beginning of the execution phase. 
-Once the project sponsor, project manager, and functional managers approve the project plan, 
+• What is the main signal between the end of the project planning phase 
+and the beginning of the execution phase?
+◘ The approval of the project management plan marks the end of 
+the project planning phase and the beginning of the execution phase. 
+Once the project sponsor, project manager, and functional managers 
+approve the project plan, 
 this is the signal that the team can begin delivering work. 
 
 • The project to build software for a point-of-sale system has just ended, 
 and the project team has conducted a retrospective or lessons learned meeting. 
-The project manager stores the outputs from this meeting in a lessons learned document for which primary reason?
+The project manager stores the outputs from this meeting in 
+a lessons learned document for which primary reason?
 ◘ The lessons learned document becomes a reference point for future projects. 
-Whenever a project manager (PM) starts a new project, part of the initiation process is 
+Whenever a project manager (PM) starts a new project, 
+part of the initiation process is 
 reviewing existing lessons learned to help improve the next project's plan.
 
-• A project manager (PM) has just been assigned to a new high-priority project to manage at the end of the planning phase. 
-The PM has the preliminary scope statement, which the previous PM created in the initiation phase. 
-There are also more detailed definitions for the project goals, scope, and requirements. 
+• A project manager (PM) has just been assigned to a new high-priority project 
+to manage at the end of the planning phase. 
+The PM has the preliminary scope statement, which the previous PM 
+created in the initiation phase. 
+There are also more detailed definitions for the project goals, scope, 
+and requirements. 
 What project document is the PM ready to finalize?
-◘ The detailed scope statement finalizes the project scope for the planning process. 
-The PM can validate the project plan against the preliminary scope by creating a detailed scope statement. 
-In this case, the former PM has completed the preliminary scope and further defined the project goals, requirements, and deliverables. 
+◘ The detailed scope statement finalizes the project scope 
+for the planning process. 
+The PM can validate the project plan against the preliminary scope by 
+creating a detailed scope statement. 
+In this case, the former PM has completed the preliminary scope 
+and further defined the project goals, requirements, and deliverables. 
 So, the PM is ready to finalize the scope statement. 
 The detailed scope statement contains the baseline, the WBS, and the project plan.
 
-• The project manager (PM) on a software build contract has sent a minimally viable product (MVP) for user acceptance testing (UAT). 
-The UAT tester immediately got an error message and could not appropriately test the core functions. 
-Upon review, the PM discovered an error in the code that affected one of the main features of the MVP.
+• The project manager (PM) on a software build contract has sent a 
+minimally viable product (MVP) for user acceptance testing (UAT). 
+The UAT tester immediately got an error message and could not appropriately 
+test the core functions. 
+Upon review, the PM discovered an error in the code that affected one of 
+the main features of the MVP.
 What type of software test could have caught this error?
 ◘ Smoke test 
 
@@ -253,7 +271,8 @@ The customer either accepts the result to validate the project or rejects it.
 • A client for a software design project has indicated that 
 the software engineer must develop three software features 
 early on for the product to be minimally viable. 
-Why is creating a minimally viable product (MVP) for the client an essential step? (Select all that apply.)
+Why is creating a minimally viable product (MVP) for the client an essential step? 
+(Select all that apply.)
 ◘ The minimum viable product (MVP) is an early version of the product. 
 However, it has enough functionality to demonstrate how the product 
 will operate so stakeholders can use it and provide feedback.
@@ -523,6 +542,262 @@ the project.
 This change involves a system outside the current project scope 
 and will require additional project resources in the form of 
 additional team members.
+
+
+CHAPTER 13
+
+
+◘ cost variance (CV) :  
+  the project spending matches expectations
+◘ schedule performance index (SPI) : 
+  project will complete ahead of schedule
+◘ variance at completion (VAC) :  
+  the project will overrun the budget if no improvements occur
+◘ estimate to complete (ETC) :  
+  the cost needed to finish the remaining work
+◘ performance to the budget metric : 
+  "Is this project on time, on budget, and in scope?"
+◘ Revenue generated
+  "Was the project a worthwhile investment? 
+  Why does this project matter?"
+
+
+• After receiving client approval for two change requests, 
+one that modifies the product release schedule and another that alters 
+the cost structure, a project manager needs to update the project documentation 
+and financial projections accordingly. Which of the following actions should 
+the project manager take to adjust the project plan and financial records? 
+(Select all that apply.)
+◘ Update the work plan.
+◘ Revise the cost baseline. 
+In connection with revising baselines, when the change is approved, 
+updates to the work plan in the project management software can be completed, 
+which will change the project baseline.
+The project manager (PM) can revise the project baseline and 
+increase the cost estimates. This forward-looking approach better reflects 
+the reality of the project.
+
+• In what ways does the project manager influence the project budget? (Select all that apply.)
+◘ Selecting vendors and managing vendor performance
+◘ Monitoring and controlling costs through assessing the burn rate weekly
+◘ Facilitating the assessment and integration of scope changes into 
+  the project plan and coordinating with stakeholders for their authorization
+
+• Based on past similar projects, a project manager (PM) needs to 
+anticipate the date the project will end. 
+Which performance measure can the PM use to determine this? 
+(Select all that apply.)
+◘ Schedule performance index
+◘ Schedule variance 
+Schedule performance index, the project manager (PM) can 
+estimate whether the project is ahead of schedule, progressing as scheduled, 
+or behind schedule.
+Schedule variance compares the actual project progress against the expected 
+project progress. With this metric, the PM can use a formula to calculate 
+whether the project timeline is on track.
+
+• A project manager (PM) updates the project management software to reflect 
+a change in the project scope. The change control board (CCB) approved 
+this change which impacts the project budget and schedule. 
+The PM notices that the project budget and schedule baselines have changed. 
+Why is this appropriate? 
+◘ Revised baselines make targets achievable.
+◘ Obsolete baselines prevent performance improvement.
+
+• A project manager creates a scope burndown chart to analyze 
+the performance of an agile project team. What changes can the project manager 
+expect to see over time? 
+◘ The scope target will change
+◘ The chart should show frequent progress
+Agile teams operate on a flexible scope; therefore, the scope target 
+will change more often than with other teams.
+To ensure the effectiveness of the burndown chart, the unit of measure 
+should be small enough for the total to change at least weekly. 
+As a result, it should show frequent progress.
+
+• Near the end of the execution phase, a project manager (PM) 
+updates the project budget and notices a gap in the cost compared 
+to earlier estimates. What actions did the PM overlook in the project management 
+process?
+◘ Rebaseline the project at the end of each phase.
+◘ Revise the baseline in change requests.
+Rebaselining prevents the team from overlooking important changes 
+as the project progresses.
+The PM should update the project work plan each time a change request 
+is approved (for more accurate estimates).
+
+• The project manager (PM) dashboard lists issues, change requests, 
+and risks with upcoming deadlines. The PM can continually answer what 
+question with this information?
+◘ What should the PM pay attention to next?
+The PM monitors issues, change requests, and risks through the dashboard 
+to continually answer the question, What needs my attention?"
+
+• The project manager (PM) applies earned value management to monitor 
+schedule performance and generates a $300 schedule variance value 
+and a 1.4 schedule performance index value. What possibilities can 
+the project manager consider regarding the schedule? 
+(Select all that apply.)
+◘ The project team may be subject to burn out. 
+◘ The project team will complete deliverables earlier than planned.
+◘ The project team overestimated the time to complete project tasks.
+
+• A project manager (PM) plans to create an executive dashboard. 
+Which key performance indicators (KPIs) will impact the stakeholders most?
+(Select all that apply.)
+◘ Performance to budget
+◘ Revenue generated
+The performance to the budget metric 
+in the executive dashboard to help stakeholders answer the question, 
+"Is this project on time, on budget, and in scope?"
+The revenue generated metric in the executive dashboard to help stakeholders 
+answer the questions, "Was the project a worthwhile investment? 
+Why does this project matter?"
+
+
+CHAPTER 14
+
+
+• During the project closure meeting, the project manager should discuss 
+the final performance metrics, including cost, budget, and schedule. 
+If the project manager chooses to provide these in writing to stakeholders 
+rather than conduct a thorough project closure meeting, 
+what important opportunities does the project manager miss? 
+(Select all that apply.) 
+◘ Facilitating a lessons learned session to gather, document, 
+and disseminate information to benefit future projects
+◘ Providing a forum for team members and stakeholders 
+to reflect on the project's successes and challenges
+◘ Soliciting direct feedback on the project management approach 
+and potential improvements
+
+• While working the execution phase of a project, leadership provides guidance 
+to the project manager (PM) that new systems and techniques are coming 
+online to make the group work more efficiently. 
+What should a project manager consider in terms of adoption when new systems 
+and techniques are introduced to the team during the execution phase of a project? 
+(Select all that apply.)
+◘ Change causes strain; users must decide that a system's benefits 
+  outweigh its discomfort. 
+◘ Users will not adopt something new just because it is available.
+Humans tend to prefer habit over change and will naturally resist changes. 
+Therefore, users need to know why the new solution matters 
+and how it can help them.
+Change adoption is a performance metric that helps the project manager 
+measure how many people successfully adopted the change.
+
+• The project manager confirms the completion of all project deliverables 
+while project team members begin focusing on other projects 
+and operational activities. Why should the project manager continue 
+to complete a thorough administrative closure for the project? 
+(Select all that apply.)
+◘ It defines the ending of the project lifecycle and transitions 
+to operational team maintenance.
+◘ The project closing phase contains many valuable and 
+necessary activities but are often skipped.
+◘ The closing phase frees team members since they have a sense 
+of accomplishment and finality.
+
+• A project manager (PM) prepares for the project closure meeting. 
+Why is the PM including a lessons learned workshop?
+◘ It provides the best resource for improving future projects.
+
+• A project manager (PM) drafts the agenda and documents to present 
+at the upcoming project closure meeting. Which artifacts will 
+the project manager include in the documents to prepare for the 
+upcoming project closure meeting? 
+(Select all that apply.)
+◘ Reconciled budget
+◘ Project closeout report
+
+• A project manager is beginning to close out a project that is 
+being reviewed by the client for accuracy and intent. 
+What actions/reviews are associated with preparing a project for closure? 
+(Select all that apply.)
+◘ Reconcile the budget 
+◘ Validate all deliverables 
+One of the reviewable items associated with preparing for 
+project closure includes the reconciliation of the budget. 
+The final budget reconciliation starts after all the contracts are 
+paid and should employ separation of duties whenever possible.
+A second review consideration should include 
+the validation of all deliverables. 
+All stakeholders need to validate that the project has met all deliverables.
+
+• When the project stakeholders approve project deliverables, 
+they agree to several conditions. 
+Which conditions apply? (Select all that apply.)
+◘ The deliverables are satisfactory.
+◘ The team will not deliver new work or accept new change requests.
+Stakeholder approval of deliverables indicates that the stakeholders 
+are satisfied with deliverables. Therefore, the team will 
+not receive additional change requests.
+Stakeholder approval of deliverables means the team will not accept 
+new change requests or deliver new work. The stakeholders agree that 
+the team completed the project work.
+
+• The stakeholder approved the project deliverables, 
+and the project manager began the project's closing process 
+with which of the following activities? 
+(Select all that apply.)
+◘ Close contracts.
+◘ Transfer all deliverables.
+◘ Reconcile the budget.
+The project manager can begin closing contracts after obtaining approval 
+to close the project from all stakeholders.
+The transition plan outlines how deliverables transition to 
+the permanent owners. 
+The project manager can verify that the team has completed all 
+operational work and support handoffs.
+
+• A project manager is attempting to schedule a project closure meeting 
+with key stakeholders but cannot find the recommended amount of time 
+on their respective calendars to cover topics and approvals required 
+for project closure. What actions can the PM take to ensure all topics 
+are covered and approved within the meeting time? 
+(Select all that apply.)
+◘ Gain written stakeholder sign-off after the meeting.
+◘ Gather lessons learned feedback and self-evaluations prior to the meeting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
