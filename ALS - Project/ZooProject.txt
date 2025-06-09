@@ -1,0 +1,46 @@
+Project: Zoo Website
+
+WEBSITE:
+
+HOME (homepage),
+Welcome message and presentation to our zoo.
+Navbar gives access to different views
+those views will correspond to different areas in our zoo
+
+There are different areas:
+• Aquarium
+• Forests
+• Aviary
+• Terrarium
+• Farm
+
+Each area will have different species:
+◘ Area:
+	• Area id	
+ 	• Description
+	• List with all the species in the area
+Every area will have access to different species:
+◘ Sepecies:
+	• Specie id
+	• Description
+	• Habitat
+	• Picture(more than one animal in the picture)
+Every species will have different individuals:
+◘ Individual Animals 
+	• animal_id
+	• Profile pic
+	• Name (unique)
+	• Favourite thing:
+	• Likes to be pet? y/n (Boolean)
+
+(Not added in Navbar)
+/admin
+	• requires username & password
+	• can add and romove adminusers
+	• can add and remove animals
+◘ adminuser:
+ 
+
+Notes
+startboostrap
+All the images are generated using deepai
