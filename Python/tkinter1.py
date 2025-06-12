@@ -1,7 +1,11 @@
+
 from tkinter import * # Import Module
 import tkinter.font #to change font in lable1 element
+#from tkinter import messagebox # creates a message box. Interrupts the program
 
 root = Tk() # create root window
+root.title("Hello tkinter")
+root.geometry('550x500+100-70')
 
 root.title("Hello tkinter")
 root.geometry('550x500+100-70') # Set geometry (widthxheight)
@@ -74,6 +78,9 @@ messingMyLabel.pack()
 
 textWidget = Text(root, height = 5, width = 52)
 
+# Interrupts the program using a messagebox
+# root.withdraw()
+# messagebox.showinfo("Message", "This is the message box")
 
 # runs tkinter. runs all the script above 
 root.mainloop()
