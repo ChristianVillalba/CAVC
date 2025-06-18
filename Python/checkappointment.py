@@ -15,9 +15,7 @@ heading.pack()
 #create a frame
 frame = Frame(root, bg="lightskyblue", borderwidth=35)
 frame.pack(padx=20, pady=20)
-# button frame
-frame = Frame(root, bg="lightskyblue", borderwidth=35)
-frame.pack(padx=20, pady=20)
+
 
 def check_fever():
     return("hello")
