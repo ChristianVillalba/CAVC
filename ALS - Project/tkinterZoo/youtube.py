@@ -10,7 +10,7 @@ root.configure(bg="#C4E1E6")
 frame = tk.Frame(bg="#C4E1E6")
 
 # Widgets
-login_heading = tk.Label(frame, text="Login", bg="#C4E1E6", fg="#213448", font=("Arial", 28))
+login_heading = tk.Label(frame, text="Login", bg="#C4E1E6", fg="#213448", font=("Arial", 28, "bold"))
 username_label = tk.Label(frame, text="Username:", bg="#C4E1E6", fg="#213448", font=("Arial", 13))
 username_entry = tk.Entry(frame, font=("Arial", 13))
 password_label = tk.Label(frame, text="Password:", bg="#C4E1E6", fg="#213448", font=("Arial", 13))
