@@ -101,11 +101,11 @@ def create_new_user_window():
         if not username or not password:
             messagebox.showerror("Error, please fill both boxes")
             return
-        elif len(username) > 10:
-            messagebox.showerror("Error, username must be at least 10 characters")
+        elif len(username) < 8:
+            messagebox.showerror("Error, username must be at least 8 characters")
             return
-        elif len(password) > 10:
-            messagebox.showerror("Error, password must be at least 10 characters")
+        elif len(password) < 8:
+            messagebox.showerror("Error, password must be at least 8 characters")
             return
         elif password != confirm_password:
             messagebox.showerror("Error, passwords don't match")  
