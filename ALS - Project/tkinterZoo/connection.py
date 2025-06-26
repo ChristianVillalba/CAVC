@@ -92,7 +92,7 @@ def manage_admins_window():
             rows = cursor.fetchall()
             conn.close()
             for row in rows:
-                admin_listbox.insert(tk.END, f"{row[3]} - {row[2]}, {row[1]}")
+                admin_listbox.insert(tk.END, f"{row[0]} - {row[2]}, {row[1]}")
     def delete_admin():
         selection = admin_listbox.get(tk.ACTIVE)
         if not selection:
@@ -269,12 +269,12 @@ def create_admin_user_window():
     frame.pack()
 
 # welcome / login window
-navigation_instructions = tk.Label(root, text="Please, login to use the application", bg="#C4E1E6", fg="#213448", font=("Arial", 16))
-navigation_instructions.pack(pady=10)
+welcome_heading = tk.Label(root, text="Welcome to ZooApp", bg="#C4E1E6", fg="#213448", font=("Arial", 28, "bold"))
+welcome_heading.pack(pady=10)
 # Login frame & login form
 login_frame = tk.Frame(root, bg="#C4E1E6", borderwidth=35)
 login_frame.pack(padx=20, pady=50)
-admin_heading = tk.Label(login_frame, text="Welcome to ZooApp", bg="#C4E1E6", fg="#213448", font=("Arial", 28, "bold"))
+admin_heading = tk.Label(login_frame, text="Please, login to use the application", bg="#C4E1E6", fg="#213448", font=("Arial", 16, "bold"))
 admin_heading.grid(row=0, column=0, columnspan=2, pady=10)
 username_label = tk.Label(login_frame, text="Username:", bg="#C4E1E6", fg="#213448", font=("Arial", 13))
 username_label.grid(row=1, column=0, pady=10, padx=10)
@@ -293,7 +293,7 @@ menu_bar = tk.Menu(root)
 admin_menu = tk.Menu(menu_bar, tearoff=1)
 menu_bar.add_cascade(label="Admin Managment", menu=admin_menu)
 admin_menu.add_command(label="Manage Admins", command=manage_admins_window)
-admin_menu.add_command(label="Create New Admin", command=create_admin_user_window)
+admin_menu.add_command(label="Create New Admin",command=create_admin_user_window)
 
 
 root.config(menu=menu_bar)
