@@ -1,4 +1,13 @@
-Project: Zoo Website
+# Project: Zoo Website
+
+• ZooApp is an application to facilitate the managment 
+	• Admin staff at the zoo (admi-users) and 
+	• Information about the animals at the zoo.
+• It requires to be logged in in order to use the application.
+• Once the admi-user is logged in, the application allows to to perform     
+CRUD Operations (Create, Retrive, Update & Delete)
+	• Related to the admins staff in the database
+	• Related to the species of animals at the zoo.
 
 WEBSITE:
 
