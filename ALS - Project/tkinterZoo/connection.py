@@ -180,19 +180,23 @@ def manage_admins_window():
 def register_admin_db(first_name, last_name, username, password, email):
     print(f'Attempting to register user: {username}')
     conn = get_db_connection()
-    if conn:
+    if not conn: 
+        return False 
+    try:
         cursor = conn.cursor()
-        cursor.execute("SELECT username FROM Admins WHERE username = ?",(username,))
-        user = cursor.fetchone()
-        if user:
+        cursor.execute("SELECT username FROM Admins WHERE username = ?", (username,))
+        if cursor.fetchone():
             print(f"User {username} already exists")
-            conn.close
             return False
         cursor.execute("INSERT INTO Admins(first_name, last_name, username, password, email) VALUES(?,?,?,?,?)",(first_name, last_name, username, password, email))
         conn.commit()
         print(f"user {username} registered successfully")
-        conn.close
         return True
+    except Exception as e:
+        print(f"Database error: {e}")
+        return False
+    finally:
+        conn.close()
 def create_admin_user_window():
     new_admin_window = tk.Toplevel() #creates extra screen, secondary pop up window
     new_admin_window.title("Register New Admin")
@@ -209,6 +213,8 @@ def create_admin_user_window():
         password = password_entry.get().strip()
         confirm_password = confirm_password_entry.get()
         email = email_entry.get().strip()
+        if not email: # Set to None if blank so it becomes SQL NULL
+            email = "NULL"
         #validation
         if not username or not password:
             messagebox.showerror("Error", "Please fill username and password")
